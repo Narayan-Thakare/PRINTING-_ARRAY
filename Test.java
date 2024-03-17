@@ -13,6 +13,7 @@ public class Test {
 		for(int i=0;i<a.length;i++){
 
 			System.out.println(a[i]);// printing array
+			
 			System.out.println(i); // printing index
 
 		}

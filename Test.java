@@ -17,6 +17,7 @@ public class Test {
 
 			System.out.println(a[i]);// printing array
 			
+
 			
 
 			System.out.println(i); // printing index
